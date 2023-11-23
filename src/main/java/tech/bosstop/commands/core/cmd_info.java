@@ -35,7 +35,7 @@ public class cmd_info extends MKECommand {
         String[] info = {
             "&aMobKillEffects &7v" + instance.getDescription().getVersion(),
             "&7Developed by Sir Blob",
-            "&7Source code: &ahttps://github.com/Bosstop/MobKillEffects"
+            "&7Source code: &ahttps://github.com/Bosstop-Studios/MobKillEffects"
         };
 
         for (String line : info) {
