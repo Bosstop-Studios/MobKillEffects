@@ -1,0 +1,13 @@
+# ======================================================
+#  Mob Kill Effects v2.0
+#
+#  Author: Sir_Blob_
+#
+#  Description: Every Mob you kill gives you a random effect. 
+#
+# ======================================================
+#
+# Potion Time in Seconds
+#
+
+potionEffect_time: 20

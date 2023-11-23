@@ -1,0 +1,21 @@
+name: ${project.name}
+version: ${project.version}
+api-version: 1.20
+author: "Sir_Blob_"
+main: tech.bosstop.MobKillEffects
+description: Every Mob you kill gives you a random effect 
+
+commands:
+  mobkilleffects:
+    aliases: [mke]
+    description: Base Command of the Plugin
+permissions:
+  mke.command.help:
+    description: Permission to use the help command
+    default: true
+  mke.command.info:
+    description: Permission to use the info command
+    default: true
+  mke.command.clear:
+    description: Permission to use the clear command
+    default: true
